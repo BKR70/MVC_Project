@@ -33,3 +33,9 @@ The Property Management System is a web platform for buying or renting propertie
 ### 📊 Admin Dashboard
 - Approve or reject listed properties.
 - Manage bookings and payments.
+
+## ⚡ Installation
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/BKR70/MVC_Project.git
+   cd MVC_Project
