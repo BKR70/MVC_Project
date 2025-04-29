@@ -54,5 +54,9 @@ The Property Management System is a web platform for buying or renting propertie
      
 4. **Run the application**
    - click the **Start** button in Visual Studio.
-   - The app will launch in your browser (usually at https://localhost:5001 or similar).
+
+5. 🛠️ Technologies Used
+   - ASP.NET Core MVC 
+   - Entity Framework Core
+   - MS SQL Server
      
