@@ -58,5 +58,5 @@ The Property Management System is a web platform for buying or renting propertie
 ## 🛠️ Technologies Used
    -    ASP.NET Core MVC
    -    Entity Framework Core
-   -    SQL Server
+   -    MS SQL Server
      
