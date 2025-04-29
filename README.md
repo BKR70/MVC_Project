@@ -41,7 +41,7 @@ The Property Management System is a web platform for buying or renting propertie
    cd MVC_Project
    
 2. **Open the project in Visual Studio**
-  - Open PropertyManagementSystem.sln
+   - Open PropertyManagementSystem.sln
     
 3. **Set up the database**
    - Edit `appsettings.json` with your SQL Server connection string.
@@ -51,3 +51,8 @@ The Property Management System is a web platform for buying or renting propertie
      Update-Database
      ```
    - This will apply Entity Framework migrations and create the required database schema.
+     
+4. **Run the application**
+   - click the **Start** button in Visual Studio.
+   - The app will launch in your browser (usually at https://localhost:5001 or similar).
+     
